@@ -39,6 +39,8 @@ genre enthusiast
 
 -Catalogue feels shallow — the same 10 popular titles dominate, with little depth into subgenres like biopunk or postcyberpunk
 
+![akira-dvd](https://github.com/user-attachments/assets/643c7ac4-8680-4258-ac21-7d5aae9de9c3)
+
 -Paying for shipping on smaller orders feels punishing — a loyalty or subscription perk would make impulse buys feel worthwhile
 
 -Inconsistent condition descriptions make buying used or vintage items feel risky without more photos or a standardised grading scale
