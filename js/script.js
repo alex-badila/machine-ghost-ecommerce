@@ -11,7 +11,7 @@ const displayProducts = () => {
 
     // Initialize the parallel arrays
     const images = ["neuromancer.jpg", "the-matrix-dvd.jpg", "equilibrium-dvd.jpg", "mona-lisa-overdrive.jpg", "count-zero.jpg", "ghost-in-the-shell-dvd.jpg", "akira-dvd.jpg", "alita-battle-angel-dvd.jpg"];
-    const originalImageLinks = ["https://en.wikipedia.org/wiki/Neuromancer#/media/File:Neuromancer_(Book).jpg", "https://en.wikipedia.org/wiki/The_Matrix#/media/File:The_Matrix.png", "https://www.amazon.ca/Equilibrium-Christian-Bale/dp/B00008UZPD", "https://www.amazon.ca/Mona-Lisa-Overdrive-William-Gibson/dp/0553281747", "https://www.goodreads.com/book/show/22200.Count_Zero", "https://www.amazon.ca/Ghost-in-the-Shell/dp/B00004RCLU", "https://en.wikipedia.org/wiki/Akira_%281988_film%29#/media/File:AKIRA_(1988_poster).jpg", "https://en.wikipedia.org/wiki/Alita:_Battle_Angel#/media/File:Alita_Battle_Angel_(2019_poster).png"];
+    const originalImageSources = ["Wikipedia", "Wikipedia", "Amazon", "Amazon", "Goodreads", "Amazon", "Katsuhiro Otomo", "Wikipedia"];
     const names = ["Neuromancer", "The Matrix DVD", "Equilibrium DVD", "Mona Lisa Overdrive", "Count Zero", "Ghost in the Shell DVD", "Akira DVD", "Alita: Battle Angel DVD"];
     const prices = [25.99, 19.99, 29.99, 15.99, 25.99, 12.99, 26.99, 19.99]
 
@@ -21,7 +21,7 @@ const displayProducts = () => {
         // Add the image
         content += `<img src="${images[i]}" height="200" width="200" alt="${names[i]}"/> `;
         // Add the original image link
-        content += `<p class="originalImageLink">Original Image: <a href="{originalImageLinks[i]}">${originalImageLinks[i]}</a>`;
+        content += `<p class="originalImageSource">Image From: ${originalImageSources[i]}</a>`;
         // Add the product name
         content += `<h3>${names[i]}</h3>`;
         // Add the price
