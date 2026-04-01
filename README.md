@@ -52,3 +52,8 @@ Here is a sketch of the site on paper:
 ![Machine Ghost eCommerce Sketch](https://github.com/user-attachments/assets/664e34b8-f199-45e1-8cc3-5af635886296)
 
 
+### Wireframe
+
+Here is the wireframe of the site in Figma:
+
+https://www.figma.com/design/DEz3YNiHt2wsIgY26nq98R/Machine-Ghost-eCommerce-Wireframe?node-id=1-60&t=Byzt2cUDeSUGrFNs-1
