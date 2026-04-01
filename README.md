@@ -5,6 +5,8 @@ This was the first project for my Web Application Development course. It was mad
 
 ## Persona
 
+Here is a persona for the average user of the site:
+
 ### Remy Kato
 
 Age 31 · UX Designer at a fintech startup
@@ -39,8 +41,14 @@ genre enthusiast
 
 -Catalogue feels shallow — the same 10 popular titles dominate, with little depth into subgenres like biopunk or postcyberpunk
 
-![akira-dvd](https://github.com/user-attachments/assets/643c7ac4-8680-4258-ac21-7d5aae9de9c3)
-
 -Paying for shipping on smaller orders feels punishing — a loyalty or subscription perk would make impulse buys feel worthwhile
 
 -Inconsistent condition descriptions make buying used or vintage items feel risky without more photos or a standardised grading scale
+
+### Sketch
+
+Here is a sketch of the site on paper:
+
+![Machine Ghost eCommerce Sketch](https://github.com/user-attachments/assets/664e34b8-f199-45e1-8cc3-5af635886296)
+
+
