@@ -264,3 +264,7 @@ header, footer {
 .bold {
     font-weight: bold;
 }
+
+a {
+    color: purple;
+}
