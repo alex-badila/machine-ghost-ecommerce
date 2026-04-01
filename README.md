@@ -14,23 +14,31 @@ genre enthusiast
 ### Goals
 
 -Build a complete physical collection of classic cyberpunk novels and films, particularly first editions and out-of-print titles
+
 -Discover lesser-known or international cyberpunk media beyond the mainstream titles
+
 -Find curated bundles or staff picks that match their taste without hours of browsing
 
 ### Behaviours
 
 -Browses the site late at night, cross-referencing items against personal spreadsheets of titles they own and want
+
 -Reads reviews and product descriptions carefully before purchasing, often opens multiple tabs to compare
+
 -Shares purchases on social media and in genre communities, acting as an informal word-of-mouth promoter
 
 ### Needs
 
 -Detailed product information — edition, print year, condition rating, and region code for DVDs
+
 -A wishlist or "notify me" feature so they can track out-of-stock items without repeatedly checking back
+
 -Genre-savvy recommendations that go beyond surface-level ("if you liked Neuromancer…") rather than generic bestseller lists
 
 ### Pain points
 
 -Catalogue feels shallow — the same 10 popular titles dominate, with little depth into subgenres like biopunk or postcyberpunk
+
 -Paying for shipping on smaller orders feels punishing — a loyalty or subscription perk would make impulse buys feel worthwhile
+
 -Inconsistent condition descriptions make buying used or vintage items feel risky without more photos or a standardised grading scale
