@@ -16,7 +16,7 @@ const displayProducts = () => {
 
     // Loop through the array and display its information on the page
     for(let i = 0; i < images.length; i++) {
-        content += `<div class="product">`
+        content += `<article class="product">`
         // Add the image
         content += `<img src="${images[i]}" height="200" width="200" alt="${names[i]}"/> `;
         // Add the product name
@@ -28,7 +28,7 @@ const displayProducts = () => {
         content += `<input type="number" id="quantity" min="0" value="0">`;
         // Add the button
         content += `<button>Buy Now</button>`;
-        content += `</div>`;
+        content += `</article>`;
     }
 
     content += "</section>";
@@ -77,7 +77,7 @@ function handleClick() {
     let itemSubtotal = productPrice * quantity;
     
     // Create cart item display
-    let cartItem = document.createElement("div");
+    let cartItem = document.createElement("article");
     cartItem.className = "cart-item";
     cartItem.innerHTML = `
         <h4>${productName}</h4>
@@ -94,7 +94,7 @@ function handleClick() {
     // Display or update totals section
     let totalsSection = document.getElementById("totals");
     if (!totalsSection) {
-        totalsSection = document.createElement("div");
+        totalsSection = document.createElement("article");
         totalsSection.id = "totals";
     }
     
