@@ -4,7 +4,7 @@ See the site live: https://alex-badila.github.io/machine-ghost-ecommerce/
 
 ## Description
 
-An ecommerce website that sells cyberpunk media, such as books and DVD's. The products are displayed in a grid format. The user chooses the quantity for each product. Each product has a Buy Now button, which, when clicked, displays the buying information to the shopping cart. To finalize their purchase the user must fill out a checkout form with their information. Once the submit button is clicked, a receipt giving all of the user's information, including an itemized list of products, is displayed.
+An ecommerce website that sells cyberpunk media, such as books and DVDs. The products are displayed in a grid format. The user chooses the quantity for each product. Each product has a Buy Now button, which, when clicked, displays the buying information to the shopping cart. To finalize their purchase the user must fill out a checkout form with their information. Once the submit button is clicked, a receipt giving all of the user's information, including an itemized list of products, is displayed.
 
 This was the first project for my Web Application Development course as part of Humber's Web Design and Development program. It was made with my Machine Ghost Simple website as a base, which was the final project for my Web Development course, part of the same program. It added the functionality of the shopping cart and checkout form.
 
@@ -34,7 +34,7 @@ Age 31 · UX Designer at a fintech startup · collector, genre enthusiast
 
 ### Needs
 
--Detailed product information — edition, print year, condition rating, and region code for DVD's
+-Detailed product information — edition, print year, condition rating, and region code for DVDs
 
 -A wishlist or "notify me" feature so they can track out-of-stock items without repeatedly checking back
 
