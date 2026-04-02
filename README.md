@@ -14,9 +14,7 @@ Here is a persona for the average user of the site:
 
 ### Remy Kato
 
-Age 31 · UX Designer at a fintech startup
-collector
-genre enthusiast
+Age 31 · UX Designer at a fintech startup · collector, genre enthusiast
 
 ### Goals
 
