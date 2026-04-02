@@ -10,7 +10,7 @@ const displayProducts = () => {
     let content = "<section>";
 
     // Initialize the parallel arrays
-    const images = ["neuromancer.jpg", "the-matrix-dvd.jpg", "equilibrium-dvd.jpg", "mona-lisa-overdrive.jpg", "count-zero.jpg", "ghost-in-the-shell-dvd.jpg", "akira-dvd.jpg", "alita-battle-angel-dvd.jpg"];
+    const images = ["images/neuromancer.jpg", "images/the-matrix-dvd.jpg", "images/equilibrium-dvd.jpg", "images/mona-lisa-overdrive.jpg", "images/count-zero.jpg", "images/ghost-in-the-shell-dvd.jpg", "images/akira-dvd.jpg", "images/alita-battle-angel-dvd.jpg"];
     const originalImageSources = ["Wikipedia", "Wikipedia", "Amazon", "Amazon", "Goodreads", "Amazon", "Katsuhiro Otomo", "Wikipedia"];
     const names = ["Neuromancer", "The Matrix DVD", "Equilibrium DVD", "Mona Lisa Overdrive", "Count Zero", "Ghost in the Shell DVD", "Akira DVD", "Alita: Battle Angel DVD"];
     const prices = [25.99, 19.99, 29.99, 15.99, 25.99, 12.99, 26.99, 19.99]
