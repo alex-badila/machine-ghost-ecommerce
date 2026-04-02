@@ -34,7 +34,7 @@ Age 31 · UX Designer at a fintech startup · collector, genre enthusiast
 
 ### Needs
 
--Detailed product information — edition, print year, condition rating, and region code for DVDs
+-Detailed product information — edition, print year, condition rating, and region code for DVD's
 
 -A wishlist or "notify me" feature so they can track out-of-stock items without repeatedly checking back
 
