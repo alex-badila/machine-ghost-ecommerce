@@ -59,4 +59,4 @@ Here is a sketch of the site on paper:
 
 Here is the wireframe of the site in Figma:
 
-https://www.figma.com/proto/DEz3YNiHt2wsIgY26nq98R/Machine-Ghost-eCommerce-Wireframe?node-id=1-3&p=f&t=t2es9eSktirZ9SNr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+https://www.figma.com/proto/DEz3YNiHt2wsIgY26nq98R/Machine-Ghost-eCommerce-Wireframe?node-id=1-3&p=f&t=t2es9eSktirZ9SNr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
