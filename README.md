@@ -8,6 +8,8 @@ An ecommerce website that sells cyberpunk media, such as books and DVDs. The pro
 
 This was the first project for my Web Application Development course as part of Humber's Web Design and Development program. It was made with my Machine Ghost Simple website as a base, which was the final project for my Web Development course, part of the same program. It added the functionality of the shopping cart and checkout form.
 
+This is a non-commercial school project.
+
 ## Persona
 
 Here is a persona for the average user of the site:
